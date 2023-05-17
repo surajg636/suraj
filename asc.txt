@@ -1,1 +1,46 @@
-asdfghjk
+ -> git init
+ 
+ -> git clone https://github.com/rohitjangir03/Demo.git
+     (open cloned folder and add files to it)
+
+ -> cd foldername(suraj)
+
+ -> git status
+
+ -> git add .
+
+ -> git status
+
+ -> git commit -m "initial"
+
+ -> git push
+
+
+
+
+
+
+
+docker
+
+  -> sudo apt install
+
+  -> sudo apt update
+
+  -> sudo apt install docker.io
+
+  -> git clone https://github.com/rohitjangir03/Demo.git
+  
+  -> ls  
+ 
+  -> cd WebApp
+
+  -> sudo docker build -t suraj .
+
+  -> sudo docker images
+
+  -> sudo docker run -d -p 7667:7667 suraj
+
+  -> sudo docker ps
+
+  -> ip address : 7667
